@@ -1,0 +1,351 @@
+age,area,cabin,embarqued,fare,name,sex,ticket
+27,Storage decks,D251,Endor,2229731₩,Mr. Peter Fisher,Male,D
+36,Middle decks,D472,Mustafar,2711626₩,Mr. Jared Bowers,Male,D
+16,Lower decks,D87,Coruscant,897633₩,Mr. Kevin Odonnell,Male,D
+20,Middle decks,E404,Coruscant,2537987₩,Mr. Peter Montgomery,Male,E
+60,Bohemian views decks,X431,Naboo,109₩,Commander William Patrick,Male,X
+39,Lower decks,E147,Coruscant,5375024₩,Mr. Nicholas Nolan,Male,E
+16,Middle decks,D127,Endor,1894874₩,Mr. Brian Hamilton,Male,D
+21,Laser decks,F128,Endor,492288₩,Lt. Vincent Woods,Male,F1
+19,Lower decks,D244,Coruscant,1104020₩,Mr. Robert Dunn,Male,D
+24,Lower decks,D257,Endor,4558665₩,Mr. James Summers,Male,D
+18,Middle decks,D82,Coruscant,4198558₩,Mr. Johnny Dillon,Male,D
+18,Lower decks,D84,Endor,2081492₩,Mr. Seth Lee,Male,D
+30,Middle decks,D356,Endor,1324638₩,Mr. Walter Pratt,Male,D
+21,Cannon decks,F2373,Endor,480041₩,Lt. Francisco Romero,Male,F2
+18,Storage decks,D256,Endor,1707698₩,Mr. Juan Mann,Male,D
+31,Middle decks,E461,Coruscant,4229081₩,Mr. Joshua Maynard,Male,E
+15,Middle decks,D43,Coruscant,5242663₩,Mr. Jeremy Carlson,Male,D
+42,Middle decks,D419,Naboo,118483₩,Mr. Dylan Lopez,Male,D
+33,Storage decks,D50,Endor,828217₩,Mr. Matthew Alvarez,Male,D
+49,Bohemian views decks,X266,Coruscant,882₩,Commander Shawn Mclean,Male,X
+26,Lower decks,E182,Coruscant,5749694₩,Mr. Thomas Fernandez,Male,E
+26,Cannon decks,F1258,Coruscant,418728₩,Lt. Donald Cain,Male,F1
+23,Lower decks,D450,Endor,4001875₩,Mr. Kevin Herring,Male,D
+59,Bohemian views decks,X352,Naboo,759₩,Commander Matthew Davies,Male,X
+26,Storage decks,D109,Endor,5141416₩,Mr. Bradley Salazar,Male,D
+32,Laser decks,F2374,Endor,413907₩,Lt. Ryan Sanchez,Male,F2
+16,Middle decks,D228,Endor,5946454₩,Mr. Daniel Norton,Male,D
+36,Middle decks,E152,Endor,4452386₩,Mr. Brian Thomas,Male,E
+23,Middle decks,D111,Coruscant,4455313₩,Mr. Kenneth Kent,Male,D
+37,Lower decks,D67,Coruscant,2754067₩,Mr. Alexander Reid,Male,D
+24,Cannon decks,F3197,Endor,430752₩,Lt. James Wood,Male,F3
+26,Lower decks,E491,Naboo,1516972₩,Mr. Alex Woodward,Male,E
+47,Bohemian views decks,X27,Endor,673₩,Commander Daniel Owen,Male,X
+36,Storage decks,E29,Coruscant,92727₩,Mr. Jeffery Garcia,Male,E
+24,Middle decks,E302,Endor,4940412₩,Mr. Matthew Bell,Male,E
+27,Cannon decks,F3423,Naboo,476578₩,Lt. Andrew Garcia,Male,F3
+19,Cannon decks,F1256,Endor,473925₩,Lt. Ian Dennis,Male,F1
+61,Bohemian views decks,X446,Endor,139₩,Commander Christopher Chambers,Male,X
+32,Lower decks,D168,Endor,907200₩,Mr. Michael Bruce,Male,D
+40,Lower decks,D114,Endor,3701005₩,Mr. Kyle Ramos,Male,D
+17,Middle decks,D396,Endor,4035085₩,Mr. Jason Carroll,Male,D
+17,Storage decks,D341,Coruscant,5973723₩,Mr. Howard Monroe,Male,D
+37,Middle decks,D274,Mustafar,2030435₩,Mr. Adam Harmon,Male,D
+32,Laser decks,F1480,Endor,485532₩,Lt. Douglas Allen,Male,F1
+54,Bohemian views decks,X442,Coruscant,585₩,Commander Dwayne Howard,Male,X
+31,Middle decks,D116,Naboo,560195₩,Mr. Marc Baldwin,Male,D
+23,Middle decks,D238,Endor,5650776₩,Mr. Matthew Smith,Male,D
+22,Storage decks,D120,Mustafar,4248027₩,Mr. David Walsh,Male,D
+43,Middle decks,E270,Coruscant,1819684₩,Mr. Keith Perry,Male,E
+33,Middle decks,D83,Coruscant,4833693₩,Mr. Jason Bates,Male,D
+20,Middle decks,D437,Naboo,4243639₩,Mr. David Moore,Male,D
+28,Laser decks,F1307,Coruscant,421266₩,Lt. Justin Campos,Male,F1
+29,Cannon decks,F2429,Endor,411590₩,Lt. Eric Owens,Male,F2
+34,Laser decks,F2124,Coruscant,482865₩,Lt. Robert Lopez,Male,F2
+30,Laser decks,F1167,Endor,466439₩,Lt. Bradley Swanson,Male,F1
+31,Middle decks,E473,Coruscant,4015638₩,Mr. Michael Stewart,Male,E
+32,Middle decks,E60,Coruscant,439805₩,Mr. Aaron Carson,Male,E
+22,Laser decks,F230,Coruscant,428436₩,Lt. Bryan Banks,Male,F2
+70,Bohemian views decks,X407,Coruscant,939₩,Commander William Garcia,Male,X
+34,Storage decks,D7,Coruscant,3448729₩,Mr. Brad Hill,Male,D
+37,Middle decks,D209,Coruscant,3195648₩,Mr. Scott Anderson,Male,D
+18,Storage decks,D292,Naboo,1140608₩,Mr. Gregory Wiggins,Male,D
+30,Storage decks,E347,Coruscant,4568751₩,Mr. Andrew Becker,Male,E
+35,Lower decks,D111,Coruscant,2985564₩,Mr. Todd Browning,Male,D
+55,Bohemian views decks,X226,Endor,653₩,Commander Michael Rios,Male,X
+27,Middle decks,E128,Endor,5278154₩,Mr. Mark Watson,Male,E
+19,Lower decks,D226,Coruscant,3645644₩,Mr. Kevin Smith,Male,D
+16,Middle decks,D26,Coruscant,3520637₩,Mr. Richard Higgins,Male,D
+23,Cannon decks,F272,Coruscant,458503₩,Lt. Andrew Martin,Male,F2
+18,Lower decks,D102,Endor,5815279₩,Mr. James Kelley,Male,D
+15,Lower decks,D107,Coruscant,5754613₩,Mr. David Williams,Male,D
+43,Middle decks,D360,Naboo,1448809₩,Mr. Benjamin Powell,Male,D
+25,Middle decks,D96,Coruscant,5898718₩,Mr. Brett Kerr,Male,D
+15,Storage decks,D353,Coruscant,1920585₩,Mr. William Cooper,Male,D
+27,Cannon decks,F1401,Coruscant,465940₩,Lt. Jeffery Turner,Male,F1
+28,Storage decks,D361,Coruscant,3434753₩,Mr. Thomas Sims,Male,D
+31,Cannon decks,F3218,Naboo,462838₩,Lt. Mr. Austin Miller,Male,F3
+37,Middle decks,D51,Coruscant,3958240₩,Mr. Adam Long,Male,D
+44,Middle decks,D128,Coruscant,792663₩,Mr. John Richards,Male,D
+21,Storage decks,D169,Coruscant,3027643₩,Mr. Jacob Hinton,Male,D
+33,Storage decks,D322,Mustafar,4376670₩,Mr. Jeffrey Howard,Male,D
+20,Lower decks,D221,Coruscant,886718₩,Mr. Michael Leach,Male,D
+44,Storage decks,D233,Coruscant,2718936₩,Mr. Bryan Sanders,Male,D
+34,Middle decks,D155,Coruscant,3741777₩,Mr. Travis Lewis,Male,D
+15,Storage decks,D290,Endor,3539404₩,Mr. James Payne,Male,D
+29,Middle decks,D70,Coruscant,5092908₩,Mr. William Hernandez MD,Male,D
+34,Middle decks,D102,Endor,5229657₩,Mr. Jon Stark,Male,D
+19,Lower decks,D159,Coruscant,1083389₩,Mr. Jonathan Santiago,Male,D
+53,Bohemian views decks,X254,Coruscant,439₩,Commander Daniel Peterson,Male,X
+20,Storage decks,D119,Coruscant,4856977₩,Mr. Robert Johnson,Male,D
+20,Lower decks,D438,Coruscant,1707352₩,Mr. Richard Kirby,Male,D
+22,Lower decks,D170,Naboo,11337₩,Mr. Robert Jones,Male,D
+42,Lower decks,D338,Coruscant,667284₩,Mr. Andrew Perez,Male,D
+32,Middle decks,D131,Coruscant,3717044₩,Mr. Ryan Rivera,Male,D
+41,Storage decks,E402,Endor,2525697₩,Mr. Matthew Schmitt,Male,E
+22,Middle decks,D127,Coruscant,3865517₩,Mr. Jonathan Berry,Male,D
+32,Experimental decks,F187,Naboo,427822₩,Lt. Peter Mooney,Male,F1
+33,Middle decks,D64,Endor,2642265₩,Mr. Daniel Nichols,Male,D
+33,Middle decks,D76,Naboo,478528₩,Mr. John Gibbs,Male,D
+28,Middle decks,D346,Naboo,3259437₩,Mr. Samuel Yates,Male,D
+18,Lower decks,E375,Coruscant,3816250₩,Mr. Christopher Hunter,Male,E
+33,Lower decks,E304,Coruscant,3294226₩,Mr. Scott Hahn,Male,E
+35,Middle decks,D373,Naboo,4295508₩,Mr. Robert Brown,Male,D
+24,Middle decks,D421,Coruscant,2952330₩,Mr. Dustin Greer,Male,D
+21,Cannon decks,F3276,Coruscant,401608₩,Lt. Jason Vasquez,Male,F3
+69,Bohemian views decks,X39,Coruscant,294₩,Commander Michael Hernandez,Male,X
+39,Lower decks,D301,Naboo,4263834₩,Mr. Logan Hughes,Male,D
+18,Middle decks,D454,Naboo,3157826₩,Mr. Christian Johnson,Male,D
+33,Middle decks,D128,Endor,1230290₩,Mr. Brian Dunn,Male,D
+33,Laser decks,F2389,Endor,465802₩,Lt. Ricardo Henry,Male,F2
+21,Lower decks,D331,Coruscant,4691086₩,Mr. John Chen,Male,D
+20,Cannon decks,F1456,Coruscant,457525₩,Lt. Michael Howell,Male,F1
+29,Laser decks,F376,Endor,479634₩,Lt. Thomas Lloyd,Male,F3
+40,Storage decks,D105,Coruscant,3372352₩,Mr. Michael Patrick,Male,D
+23,Storage decks,D447,Endor,5219659₩,Mr. Colin Casey,Male,D
+32,Lower decks,D288,Endor,2713168₩,Mr. Jesus Clarke,Male,D
+52,Bohemian views decks,X150,Naboo,814₩,Commander Timothy Tucker,Male,X
+34,Lower decks,E460,Naboo,775836₩,Mr. Melvin Armstrong,Male,E
+34,Laser decks,F3330,Endor,437437₩,Lt. Robert Oneal,Male,F3
+18,Middle decks,D116,Naboo,3779144₩,Mr. Jason Torres,Male,D
+34,Experimental decks,F1492,Naboo,456526₩,Lt. Keith Livingston,Male,F1
+34,Cannon decks,F3347,Coruscant,439421₩,Lt. Brett Ayala,Male,F3
+37,Storage decks,D155,Coruscant,5810562₩,Mr. Jeremy Parks,Male,D
+26,Storage decks,D90,Coruscant,233057₩,Mr. Victor Sharp,Male,D
+18,Lower decks,E421,Mustafar,3707677₩,Mr. Ian Johnson,Male,E
+20,Middle decks,D209,Mustafar,764429₩,Mr. William Fuentes,Male,D
+44,Storage decks,D424,Coruscant,3432463₩,Mr. Daniel Harris,Male,D
+34,Lower decks,D123,Naboo,1228876₩,Mr. Bryce Smith,Male,D
+20,Lower decks,D188,Coruscant,5091578₩,Mr. Larry Villarreal,Male,D
+44,Middle decks,D382,Coruscant,3031667₩,Mr. Gregory Haley,Male,D
+73,Bohemian views decks,X65,Coruscant,394₩,Commander Mr. John Carter,Male,X
+60,Bohemian views decks,X447,Endor,355₩,Commander Mark White,Male,X
+33,Cannon decks,F1368,Endor,452677₩,Lt. Kevin Moore,Male,F1
+37,Middle decks,E395,Endor,3966615₩,Mr. Robert Stewart,Male,E
+38,Middle decks,E182,Mustafar,5869154₩,Mr. Eddie Barnes,Male,E
+38,Middle decks,D266,Coruscant,1393334₩,Mr. Alex Miller,Male,D
+19,Middle decks,D389,Endor,5690803₩,Mr. Juan Yang,Male,D
+39,Storage decks,D265,Coruscant,2302657₩,Mr. Mark Miller,Male,D
+39,Lower decks,D77,Coruscant,2535265₩,Mr. Travis Brown,Male,D
+41,Middle decks,D404,Coruscant,3435425₩,Mr. Nicholas Flores,Male,D
+22,Cannon decks,F1482,Endor,496659₩,Lt. John Clements,Male,F1
+46,Bohemian views decks,X25,Endor,311₩,Commander Justin Watts,Male,X
+21,Middle decks,D51,Coruscant,4462058₩,Mr. James Saunders,Male,D
+18,Middle decks,D258,Endor,407255₩,Mr. Jesse Giles,Male,D
+30,Storage decks,D374,Endor,2970742₩,Mr. Mark Webb,Male,D
+40,Storage decks,D395,Endor,4793704₩,Mr. Michael Montgomery,Male,D
+42,Lower decks,D371,Endor,2596973₩,Mr. Randy Fuller,Male,D
+21,Lower decks,D236,Coruscant,1748119₩,Mr. Michael Ruiz,Male,D
+44,Middle decks,D272,Coruscant,1509239₩,Mr. David Gill,Male,D
+42,Lower decks,D448,Naboo,695641₩,Mr. Bryan Stephenson Jr.,Male,D
+23,Middle decks,E435,Coruscant,996127₩,Mr. Kevin Foster,Male,E
+32,Experimental decks,F1281,Endor,458202₩,Lt. Drew Fischer,Male,F1
+28,Middle decks,E257,Endor,521009₩,Mr. Andrew Sparks,Male,E
+26,Cannon decks,F1242,Coruscant,471071₩,Lt. Joseph Wright,Male,F1
+37,Middle decks,D83,Mustafar,3641789₩,Mr. Jason Roberts,Male,D
+25,Middle decks,D21,Mustafar,5041248₩,Mr. Mark Schmidt,Male,D
+63,Bohemian views decks,X352,Coruscant,476₩,Commander Jamie Osborne,Male,X
+33,Lower decks,E28,Endor,3553353₩,Mr. Jacob Fuller,Male,E
+41,Middle decks,D78,Endor,4734295₩,Mr. James Garza,Male,D
+38,Lower decks,D44,Naboo,51470₩,Mr. Hector Kennedy,Male,D
+44,Middle decks,E28,Endor,3226305₩,Mr. Michael Flores,Male,E
+38,Middle decks,D240,Endor,2027553₩,Mr. Eric Mcgee,Male,D
+18,Laser decks,F174,Coruscant,452214₩,Lt. Alexander Ruiz,Male,F1
+66,Bohemian views decks,X160,Coruscant,310₩,Commander Joseph Jones,Male,X
+18,Middle decks,D251,Coruscant,3435930₩,Mr. Patrick Caldwell,Male,D
+21,Experimental decks,F1102,Mustafar,421707₩,Lt. Marc Key,Male,F1
+25,Cannon decks,F2448,Coruscant,416627₩,Lt. Nicholas Perez,Male,F2
+36,Lower decks,D273,Endor,5201811₩,Mr. Brian Murray,Male,D
+22,Storage decks,D464,Coruscant,1149133₩,Mr. Javier Prince,Male,D
+41,Middle decks,D119,Coruscant,5991467₩,Mr. Michael Warren,Male,D
+34,Lower decks,D8,Endor,696748₩,Mr. Jeremy Clarke,Male,D
+17,Middle decks,D382,Coruscant,3018623₩,Mr. James Robinson,Male,D
+31,Lower decks,D7,Naboo,4060644₩,Mr. Kevin Williams,Male,D
+26,Middle decks,D212,Naboo,5987253₩,Mr. Bradley Lopez,Male,D
+30,Storage decks,D494,Endor,5163655₩,Mr. Christopher Bishop,Male,D
+49,Bohemian views decks,X105,Coruscant,476₩,Commander Jose Mitchell,Male,X
+20,Middle decks,E432,Naboo,3699657₩,Mr. Jimmy Welch,Male,E
+19,Cannon decks,F2124,Endor,429030₩,Lt. Troy Spears,Male,F2
+19,Middle decks,D428,Coruscant,4718381₩,Mr. John Padilla,Male,D
+34,Middle decks,D285,Coruscant,60209₩,Mr. Andrew Martin,Male,D
+36,Middle decks,D56,Mustafar,5666298₩,Mr. Charles Buchanan,Male,D
+25,Storage decks,D58,Endor,429853₩,Mr. Mr. Thomas Chavez,Male,D
+16,Middle decks,D322,Endor,3372554₩,Mr. Stephen Norton,Male,D
+27,Storage decks,D433,Endor,3664796₩,Mr. Frederick Johnson,Male,D
+32,Lower decks,D362,Endor,5456940₩,Mr. Daniel Warren,Male,D
+41,Storage decks,E339,Naboo,1352663₩,Mr. Michael Fitzgerald,Male,E
+27,Cannon decks,F1444,Coruscant,476573₩,Lt. David Cooper,Male,F1
+32,Middle decks,E23,Naboo,2310781₩,Mr. Timothy Jones,Male,E
+21,Cannon decks,F2458,Coruscant,404648₩,Lt. Anthony Lamb,Male,F2
+30,Middle decks,D165,Endor,5434903₩,Mr. Bruce Miller,Male,D
+39,Middle decks,D147,Endor,3145288₩,Mr. Jason Calhoun,Male,D
+25,Experimental decks,F2295,Endor,446462₩,Lt. Jeffery Fischer,Male,F2
+30,Lower decks,E436,Endor,4670448₩,Mr. Christopher Burns,Male,E
+35,Storage decks,D119,Coruscant,3953835₩,Mr. Timothy Flores,Male,D
+28,Lower decks,D77,Coruscant,2347630₩,Mr. Dustin Weaver,Male,D
+20,Storage decks,D482,Naboo,189265₩,Mr. Jeremy Jacobs,Male,D
+26,Experimental decks,F2483,Endor,440921₩,Lt. David Wilson,Male,F2
+20,Storage decks,E129,Coruscant,1077597₩,Mr. Nicholas Wright,Male,E
+27,Middle decks,D275,Coruscant,3884916₩,Mr. Matthew Harmon,Male,D
+31,Lower decks,E451,Coruscant,731268₩,Mr. Bryan Brewer,Male,E
+20,Cannon decks,F12,Coruscant,498547₩,Lt. Ian Leonard,Male,F1
+43,Middle decks,E370,Coruscant,3047039₩,Mr. Daniel Decker,Male,E
+20,Middle decks,D232,Coruscant,5256863₩,Mr. Michael Hall,Male,D
+22,Storage decks,E304,Endor,4364232₩,Mr. Christopher Pacheco,Male,E
+39,Storage decks,D61,Coruscant,4176624₩,Mr. Kevin Johnson,Male,D
+37,Middle decks,D332,Endor,96416₩,Mr. William Dixon,Male,D
+42,Storage decks,D142,Endor,4663137₩,Mr. Richard Hampton,Male,D
+73,Bohemian views decks,X202,Naboo,494₩,Commander Daniel Oconnor,Male,X
+35,Middle decks,D181,Coruscant,5344430₩,Mr. Hayden Garza,Male,D
+42,Lower decks,D381,Coruscant,4761239₩,Mr. Brian Flowers,Male,D
+20,Middle decks,D288,Coruscant,3224242₩,Mr. Jesus Smith,Male,D
+22,Laser decks,F2389,Coruscant,467857₩,Lt. Matthew Simpson,Male,F2
+19,Storage decks,D72,Mustafar,1940655₩,Mr. Erik Abbott,Male,D
+30,Experimental decks,F161,Coruscant,474140₩,Lt. Michael Underwood,Male,F1
+32,Experimental decks,F12,Coruscant,482627₩,Lt. Anthony Johnson,Male,F1
+36,Lower decks,D120,Coruscant,1344791₩,Mr. Mr. Jeremy Swanson,Male,D
+38,Middle decks,D109,Mustafar,42444₩,Mr. Michael Torres,Male,D
+34,Middle decks,D121,Endor,5280308₩,Mr. Nicholas Hernandez,Male,D
+21,Storage decks,D146,Endor,3276194₩,Mr. Alexander Williams,Male,D
+25,Laser decks,F1208,Coruscant,447376₩,Lt. Austin Brown,Male,F1
+28,Lower decks,D408,Coruscant,1133332₩,Mr. Steven Robinson,Male,D
+32,Laser decks,F1411,Coruscant,438285₩,Lt. Christopher Murphy,Male,F1
+19,Lower decks,D170,Coruscant,4577519₩,Mr. James Ortiz,Male,D
+42,Storage decks,D183,Endor,4162985₩,Mr. Noah Parks,Male,D
+44,Storage decks,D110,Endor,3055974₩,Mr. Thomas Ortiz,Male,D
+29,Storage decks,E318,Coruscant,2416559₩,Mr. Charles Melton,Male,E
+26,Cannon decks,F2285,Naboo,464810₩,Lt. Charles Rivera,Male,F2
+62,Bohemian views decks,X128,Endor,492₩,Commander David Johnson,Male,X
+16,Middle decks,D45,Coruscant,2825510₩,Mr. Richard Sutton,Male,D
+22,Middle decks,E322,Coruscant,5116278₩,Mr. Timothy Harper,Male,E
+18,Storage decks,D122,Naboo,2296318₩,Mr. Chris Guzman,Male,D
+19,Cannon decks,F164,Mustafar,419961₩,Lt. Nicholas Johnson,Male,F1
+44,Middle decks,D19,Endor,2734564₩,Mr. Brandon Carter,Male,D
+44,Middle decks,D144,Endor,3911718₩,Mr. Henry Moss,Male,D
+18,Middle decks,D330,Endor,3203951₩,Mr. Johnathan Long,Male,D
+47,Bohemian views decks,X91,Coruscant,433₩,Commander Joshua Madden,Male,X
+21,Middle decks,D344,Endor,1248241₩,Mr. Dennis Mcdaniel,Male,D
+42,Middle decks,E406,Coruscant,882263₩,Mr. Jared Crawford,Male,E
+28,Storage decks,D335,Coruscant,2730406₩,Mr. Andrew Becker,Male,D
+40,Lower decks,D265,Naboo,959786₩,Mr. Dylan Parks,Male,D
+26,Cannon decks,F1241,Coruscant,458890₩,Lt. Gerald Good,Male,F1
+29,Cannon decks,F15,Endor,471271₩,Lt. Keith Rivera,Male,F1
+32,Lower decks,E440,Naboo,3372129₩,Mr. Kevin Cortez,Male,E
+36,Storage decks,E29,Naboo,490424₩,Mr. Thomas Lam,Male,E
+32,Storage decks,E312,Endor,1048478₩,Mr. Adam Velasquez,Male,E
+15,Storage decks,D373,Endor,5660170₩,Mr. Jack Garrett,Male,D
+40,Middle decks,E408,Endor,1081498₩,Mr. Kyle Archer,Male,E
+32,Cannon decks,F1209,Naboo,487669₩,Lt. Andrew Martinez,Male,F1
+31,Cannon decks,F2167,Endor,434026₩,Lt. John Arroyo,Male,F2
+28,Middle decks,D462,Naboo,3975029₩,Mr. Paul Lopez,Male,D
+33,Lower decks,E189,Endor,1879227₩,Mrs. Ashley Weeks,Female,E
+72,Bohemian views decks,X305,Naboo,208₩,Commander Lindsay Jacobs,Female,X
+21,Lower decks,D331,Mustafar,5359232₩,Mrs. Kathleen Clark,Female,D
+26,Cannon decks,F242,Endor,474127₩,Lt. Heather Russell,Female,F2
+18,Lower decks,E93,Coruscant,1650345₩,Mrs. Tina Munoz,Female,E
+27,Middle decks,D177,Endor,4809431₩,Miss Angela Mason,Female,D
+61,Bohemian views decks,X50,Endor,804₩,Commander Emily Nunez,Female,X
+58,Middle decks,D270,Mustafar,4238949₩,Mrs. Janice Boyer,Female,D
+35,Middle decks,D234,Endor,229524₩,Miss Victoria Hines,Female,D
+33,Cannon decks,F2495,Coruscant,406159₩,Lt. Ellen Nolan,Female,F2
+28,Cannon decks,F1232,Naboo,444284₩,Lt. Connie Rhodes,Female,F1
+47,Lower decks,D380,Naboo,3977164₩,Ms. Dr. Anna Fritz DVM,Female,D
+20,Lower decks,E249,Mustafar,5561983₩,Mrs. Morgan Carlson,Female,E
+22,Cannon decks,F1363,Endor,473045₩,Lt. Alicia Kramer,Female,F1
+27,Middle decks,D401,Mustafar,3940351₩,Mrs. Anna Chapman,Female,D
+34,Laser decks,F1160,Endor,480157₩,Lt. Stephanie Dunlap,Female,F1
+20,Middle decks,D425,Coruscant,5099284₩,Mrs. Sharon Gonzalez,Female,D
+22,Middle decks,E306,Endor,1167922₩,Mrs. Leslie Perez,Female,E
+22,Experimental decks,F2207,Naboo,480323₩,Lt. Kathleen Turner,Female,F2
+41,Middle decks,D152,Naboo,671155₩,Miss Angela Villanueva,Female,D
+21,Lower decks,E368,Endor,3423183₩,Ms. Mrs. Sheila Smith,Female,E
+23,Lower decks,E427,Endor,3745941₩,Mrs. Beth Briggs,Female,E
+25,Cannon decks,F1444,Coruscant,408489₩,Lt. Melissa Phelps,Female,F1
+47,Middle decks,D25,Coruscant,4933232₩,Mrs. Nancy Smith,Female,D
+45,Middle decks,E429,Endor,4793365₩,Mrs. Laura Smith,Female,E
+19,Middle decks,E237,Naboo,169978₩,Mrs. Amanda Flores,Female,E
+48,Middle decks,D460,Coruscant,194486₩,Mrs. Emily Ibarra,Female,D
+46,Middle decks,D404,Coruscant,5098936₩,Mrs. Morgan Leonard,Female,D
+67,Bohemian views decks,X126,Coruscant,68₩,Commander Denise Ryan,Female,X
+57,Middle decks,D305,Naboo,3912393₩,Mrs. Kristen Jones,Female,D
+64,Bohemian views decks,X202,Coruscant,297₩,Commander Susan Davis,Female,X
+39,Middle decks,E171,Endor,4348654₩,Mrs. Tabitha Murray,Female,E
+64,Middle decks,D368,Endor,4268607₩,Mrs. Kimberly Juarez,Female,D
+57,Middle decks,D320,Coruscant,1465262₩,Ms. Jessica Murphy,Female,D
+59,Middle decks,D490,Coruscant,727222₩,Mrs. Shari Fitzgerald,Female,D
+56,Storage decks,D242,Coruscant,4794416₩,Mrs. Michelle Weaver,Female,D
+37,Lower decks,D86,Endor,2490802₩,Ms. Lisa Black,Female,D
+56,Storage decks,E445,Endor,1315453₩,Mrs. Julie Myers,Female,E
+65,Bohemian views decks,X290,Naboo,27₩,Commander Barbara Nunez,Female,X
+49,Lower decks,D69,Endor,2845622₩,Ms. Christina Allen,Female,D
+49,Middle decks,E240,Naboo,2582167₩,Ms. Stacy Kelley,Female,E
+21,Middle decks,D474,Coruscant,397887₩,Mrs. Ann Middleton,Female,D
+15,Lower decks,D227,Coruscant,5197175₩,Miss Christie Ray,Female,D
+35,Storage decks,D261,Endor,491398₩,Mrs. Jennifer Davidson,Female,D
+19,Lower decks,E196,Endor,3581731₩,Mrs. Margaret Morrison,Female,E
+33,Storage decks,D141,Coruscant,2636918₩,Miss Patricia Harris,Female,D
+29,Middle decks,D189,Coruscant,3790866₩,Mrs. Mrs. Kelly Lewis,Female,D
+23,Cannon decks,F3120,Endor,421070₩,Lt. Kaitlyn Munoz,Female,F3
+39,Middle decks,E259,Naboo,1306751₩,Miss Erin Le,Female,E
+22,Middle decks,E371,Naboo,5023392₩,Mrs. Sherry Davis,Female,E
+18,Middle decks,E61,Coruscant,2942944₩,Mrs. Lisa Valdez,Female,E
+43,Lower decks,D488,Mustafar,2075689₩,Mrs. Tammy Allen,Female,D
+34,Cannon decks,F1190,Endor,438519₩,Lt. Kelly Schultz,Female,F1
+28,Laser decks,F1346,Endor,484611₩,Lt. Katie Flores,Female,F1
+25,Cannon decks,F1452,Coruscant,444746₩,Lt. Roberta Lee,Female,F1
+41,Middle decks,E405,Coruscant,173205₩,Mrs. Jessica Swanson,Female,E
+44,Middle decks,E413,Coruscant,2206046₩,Miss Jessica Roberts,Female,E
+37,Lower decks,D211,Coruscant,825888₩,Mrs. Sandra Burns,Female,D
+29,Lower decks,D286,Endor,3272740₩,Mrs. Laura Baker,Female,D
+59,Storage decks,D417,Endor,3572545₩,Ms. Brenda Moon,Female,D
+60,Storage decks,D423,Coruscant,4360570₩,Mrs. Sara Evans,Female,D
+19,Middle decks,E478,Endor,4008549₩,Mrs. Holly Mcintosh,Female,E
+30,Middle decks,D476,Mustafar,5865921₩,Miss Amanda Valencia,Female,D
+57,Middle decks,D308,Coruscant,5787877₩,Ms. Julie Green,Female,D
+29,Middle decks,D15,Mustafar,3877389₩,Miss Rebecca Martin,Female,D
+55,Middle decks,D175,Endor,3307653₩,Ms. Lauren Luna,Female,D
+25,Middle decks,D425,Naboo,292221₩,Mrs. Marie Burton,Female,D
+39,Lower decks,E372,Naboo,193472₩,Mrs. Lindsay Wang,Female,E
+52,Bohemian views decks,X26,Coruscant,899₩,Commander Brittany Hines,Female,X
+37,Middle decks,D279,Coruscant,2053009₩,Mrs. Andrea Ramirez,Female,D
+54,Bohemian views decks,X336,Endor,853₩,Commander Penny Lane,Female,X
+57,Lower decks,D293,Naboo,2083248₩,Mrs. Brenda Werner,Female,D
+27,Lower decks,D419,Endor,4111671₩,Mrs. Mandy Myers,Female,D
+55,Middle decks,D483,Endor,2324763₩,Ms. Dana Parsons,Female,D
+21,Middle decks,E352,Naboo,3766598₩,Mrs. Shelia Lewis,Female,E
+41,Lower decks,D269,Endor,4211813₩,Ms. Pamela Fisher,Female,D
+21,Experimental decks,F1104,Coruscant,490776₩,Lt. Michelle Baldwin DDS,Female,F1
+44,Lower decks,D452,Mustafar,4138059₩,Miss Elizabeth Wallace,Female,D
+32,Middle decks,D28,Naboo,2506159₩,Mrs. Maria Berger,Female,D
+26,Middle decks,E182,Coruscant,138760₩,Miss Joanna Hughes,Female,E
+37,Middle decks,D324,Mustafar,208724₩,Miss Paula Mitchell,Female,D
+29,Storage decks,D202,Coruscant,279478₩,Ms. Lisa Carroll,Female,D
+57,Lower decks,E75,Coruscant,2808801₩,Mrs. Adrienne Rodriguez,Female,E
+54,Middle decks,D48,Coruscant,1535124₩,Ms. Kari Ruiz,Female,D
+29,Middle decks,E173,Coruscant,3796912₩,Mrs. Kathleen Sampson,Female,E
+33,Experimental decks,F2202,Mustafar,460974₩,Lt. Gina Erickson,Female,F2
+22,Lower decks,D40,Mustafar,5332576₩,Miss Amanda Collins,Female,D
+61,Storage decks,D381,Coruscant,4417212₩,Mrs. Erin Chan,Female,D
+58,Bohemian views decks,X391,Coruscant,319₩,Commander Danielle Juarez,Female,X
+74,Bohemian views decks,X212,Endor,819₩,Commander Melissa Gomez,Female,X
+52,Middle decks,E200,Endor,3927556₩,Ms. Lauren Downs,Female,E
+22,Lower decks,D85,Endor,1648419₩,Ms. Anne Herring,Female,D
+26,Middle decks,D342,Naboo,2491291₩,Miss Mary Young,Female,D
+26,Storage decks,D209,Coruscant,1061099₩,Miss Amy Randall,Female,D
+16,Middle decks,D363,Endor,4722107₩,Miss Kelsey Grant,Female,D
+33,Laser decks,F2349,Coruscant,415792₩,Lt. Brianna Davis,Female,F2
+39,Lower decks,D469,Endor,300797₩,Miss Christina Brooks,Female,D
+42,Middle decks,D15,Coruscant,5633128₩,Mrs. Kimberly Pineda,Female,D
+58,Middle decks,D140,Coruscant,4116058₩,Mrs. Ashley Hardy,Female,D
+27,Middle decks,D223,Coruscant,1992021₩,Mrs. Paula Oneal,Female,D
