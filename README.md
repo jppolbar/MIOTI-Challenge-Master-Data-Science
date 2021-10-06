@@ -10,6 +10,8 @@ El proyeto se divide en 5 notebooks y 2 carpetas **datos** e **img**:
 * **ML1**  - Trabajos y challenges de la asigtura de Machine Learning I - Algoritmos Supervisados. Hiperparametrización
 * **ML2**  - Trabajos y challenges de la asigtura de Machine Learning II - Algorimtos No Supervisados. Clusterización. Reducción dimensionalidad. Anomalías
 * **PA**  - Trabajos y challenges de la asigtura de Predictive Analytics - Series temporales. Estacionalidad.Periodicidad.ARIMA.PROPHET
+* **CV** - Trabajos y challenges de la asigtura de Computer Vision - Deteccción de Blobs. OCR. Filtro sobre imagenes.
+* **NLP** - Trabajos y challenges de la asigtura de Natural Lenguaje Processing 
 
 ## Principales librerias utilizadas.
 
@@ -26,3 +28,7 @@ El proyeto se divide en 5 notebooks y 2 carpetas **datos** e **img**:
 * **sklearn**
 * **scipy**
 * **fbprophet**
+* **nltk**
+* **spaCy**
+* **skimage**
+* **tesseract**
