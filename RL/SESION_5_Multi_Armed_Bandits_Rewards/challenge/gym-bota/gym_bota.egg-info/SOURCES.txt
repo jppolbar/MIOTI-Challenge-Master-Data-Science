@@ -1,0 +1,7 @@
+README.md
+setup.py
+gym_bota.egg-info/PKG-INFO
+gym_bota.egg-info/SOURCES.txt
+gym_bota.egg-info/dependency_links.txt
+gym_bota.egg-info/requires.txt
+gym_bota.egg-info/top_level.txt
